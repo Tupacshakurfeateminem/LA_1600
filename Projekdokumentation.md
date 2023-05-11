@@ -23,18 +23,15 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  | Muss  |  Funktional| Als User möchte ich eine Webseite zu den Sportarten Fussball anschauen können, Basketball, Tennis, deren Spielregeln, berühmte Spielhallen/Stadien zu dem Sport, ein paar erfolgreiche/bekannte Spieler, Damit ich etwas über den Sport informiert bin. |
-(| 2 | Kann    |   Qualität   | Als User möchte ich eine visuelle und interaktive Hilfestellung zu den geschriebenen Informationen, damit mir beim lernen und begreifen zu Helfen, und auch als interessantes unterhaltsamendes Feature.  |)
-
+| 1  | Muss  |  Funktional| Als User möchte ich eine Webseite zu den Sportarten Fussball, Basketball, Tennis, deren Spielregeln, berühmte Spielhallen/Stadien zu dem Sport, ein paar erfolgreiche/bekannte Spieler, anschauen können. |
+|2|Muss/Kann|Rand| Als User möchte ich, dass wenn ich auf die Sportart gedrückt habe, nur noch diese auf meinem Bildschirm ist, und die anderen zwei ausgeblendet werden und von der Startseite aus erreichbar sind.|
 |3|Kann|Rand|Als User möchte ich, dass die Bilder zu den Sporten sich von selbst ändern, bzw. verschieden Bilder einblendet. |
-|3|Muss/Kann|Qualität|Als User möchte ich, dass wenn ich auf den Text, der den Sport nennt, die Spielregeln, berühmte Spielhallen/Stadien zum Sport, ein paar erfolgreiche/bekannte Spieler, nach lädt um anschauen und lesen. |
-|4|Kann| Rand|Als User möchte ich, dass wenn ich auf die Sportart drücke, zu erst ein Ball des Sportes dort runterfällt, wo dann der Inhalt eingeblendet wird.|
-|3|Kann|Qualität|Als User möchte ich, dass das Spielkonzept zuerst einfach erklährt wird und ich für eine erweiterte Erklährung ein Pfeilchen drücken kann, welches den Rest nach lädt.|
-|3|Kann|Rand|Als User möchte ich, dass eine Animation zum Spieler vom Spieler in Aktion angezeigt wird.|
-||Rand|Als User möchte ich ein Bild von dem jeweiligen Stadion auf/nachklappbar ist.|
-
-| 3 | Kann| Rand| Als User möchte ich die Seite, bzw. das Geschriebene, auf englisch übersetzen können, damit nicht deutsch sprechende Personen die Seite auch verstehen können. |
-(|4| Kann | Rand | Als User möchte ich, dass die Seite jeweils auch auf meinem Smartphone angenehm anzuschauen und mit zuinteragieren, ist.) 
+|4|Kann| Rand|Als User möchte ich, dass wenn ich auf die Sportart drücke, zu erst ein Ball des Sportes dort runterfällt, wo dann der Inhalt, also Infos zu den die Spielregeln, berühmten Spielhallen/Stadien zum Sport, ein paar erfolgreiche/bekannte Spieler, eingeblendet wird.|
+|5|Kann|Qualität|Als User möchte ich, dass das Spielkonzept zuerst einfach erklährt wird und ich für eine erweiterte Erklährung ein Pfeilchen drücken kann, welches den Rest nach lädt.|
+|6|Rand|Als User möchte ich ein Bild von dem jeweiligen Stadion auf/nachklappbar ist.|
+|7|Kann|Rand|Als User möchte ich, dass eine Animation zum Spieler vom Spieler in Aktion angezeigt wird.|
+|8 | Kann| Rand| Als User möchte ich die Seite, bzw. das Geschriebene, auf englisch übersetzen können, damit nicht deutsch sprechende Personen die Seite auch verstehen können. |
+(|9| Kann | Rand | Als User möchte ich, dass die Seite jeweils auch auf meinem Smartphone angenehm anzuschauen und mit zuinteragieren, ist.) 
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -60,7 +57,7 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  11.5  |  Dakaj&Broder | Gerüst der Seite mit html erstellen | 45 min   |
-| 1.B  | 18.5 | Broder   |  Bild das von selber wechselt   |   50 min    |
+| 3.A  | 18.5 | Broder   |  Bild das von selber wechselt   |   50 min    |
 
 Total: 
 
