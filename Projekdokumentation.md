@@ -31,8 +31,7 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 |6|Kann |Rand|Als User möchte ich ein Bild von dem jeweiligen Stadion auf/nachklappbar ist.|
 |7|Kann|Rand|Als User möchte ich, dass eine Animation zum Spieler vom Spieler in Aktion angezeigt wird.|
 |8 | Kann| Rand| Als User möchte ich die Seite, bzw. das Geschriebene, auf englisch übersetzen können, damit nicht deutsch sprechende Personen die Seite auch verstehen können. |
-(|9| Kann | Rand | Als User möchte ich, dass die Seite jeweils auch auf meinem Smartphone angenehm anzuschauen und mit zuinteragieren, ist.) 
-
+|9| Kann | Rand | Als User möchte ich, dass die Seite jeweils auch auf meinem Smartphone angenehm anzuschauen und mit zuinteragieren, ist.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
