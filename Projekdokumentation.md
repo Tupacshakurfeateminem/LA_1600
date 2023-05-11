@@ -21,8 +21,9 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1  | Muss  |  Funktional| Als User möchte ich eine Webs(e)ite zu den Sportarten Fussball anschauen können, Basketball, Tennis, deren Spielregeln, berühmte Spielhallen/Stadien zu dem Sport, ein paar erfolgreiche/bekannte Spieler, Als Lehrreiche und interaktive Lernquelle. |
+| 2 |                 |      | Als User möchte ich eine visuelle und interaktive Hilfestellung zu den geschriebenen Informationen, um mir beim lernen und begreifen zu Helfen und als interessantes unterhaltendes Feature.  |
+sprachenwechsel 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
