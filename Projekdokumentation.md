@@ -28,7 +28,7 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 |3|Kann|Rand|Als User möchte ich, dass die Bilder zu den Sporten sich von selbst ändern, bzw. verschieden Bilder einblendet. |
 |4|Kann| Rand|Als User möchte ich, dass wenn ich auf die Sportart drücke, zu erst ein Ball des Sportes dort runterfällt, wo dann der Inhalt, also Infos zu den die Spielregeln, berühmten Spielhallen/Stadien zum Sport, ein paar erfolgreiche/bekannte Spieler, eingeblendet wird.|
 |5|Kann|Qualität|Als User möchte ich, dass das Spielkonzept zuerst einfach erklährt wird und ich für eine erweiterte Erklährung ein Pfeilchen drücken kann, welches den Rest nach lädt.|
-|6|Rand|Als User möchte ich ein Bild von dem jeweiligen Stadion auf/nachklappbar ist.|
+|6|Kann |Rand|Als User möchte ich ein Bild von dem jeweiligen Stadion auf/nachklappbar ist.|
 |7|Kann|Rand|Als User möchte ich, dass eine Animation zum Spieler vom Spieler in Aktion angezeigt wird.|
 |8 | Kann| Rand| Als User möchte ich die Seite, bzw. das Geschriebene, auf englisch übersetzen können, damit nicht deutsch sprechende Personen die Seite auch verstehen können. |
 (|9| Kann | Rand | Als User möchte ich, dass die Seite jeweils auch auf meinem Smartphone angenehm anzuschauen und mit zuinteragieren, ist.) 
