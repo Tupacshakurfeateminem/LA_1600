@@ -5,7 +5,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|  11.5     | 0.0.1   | Use-Case Diagramm & Mockup, User Stories gemacht |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -13,7 +13,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In unserem Projekt müssen wir eine Webseite mit Thema/Inhalt unserer Wahl mit der Programmiersprache CSS programmieren. Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball und Tennis
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
