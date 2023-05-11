@@ -39,6 +39,7 @@ sprachenwechsel
 ### 1.4 Diagramme
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![image](https://github.com/Tupacshakurfeateminem/LA_1600/assets/111044137/1884d71e-55f7-470c-a6c7-73212dfdaae0)
 
 ## 2 Planen
 
