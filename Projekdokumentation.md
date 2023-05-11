@@ -1,11 +1,10 @@
 # LA_1600
 # Projekt-Dokumentation
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
-
+Cranberry: Broder, Hassani, Dakaj
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|  11.5     | 0.0.1   | Use-Case Diagramm & Mockup, User Stories gemacht |
+|  11.5     | 0.0.1   | Use-Case Diagramm & Mockup, User Stories, 1.1 Prjkdoku, Arbeitspakete gemacht |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -13,17 +12,29 @@
 
 ### 1.1 Ihr Projekt
 
-In unserem Projekt müssen wir eine Webseite mit Thema/Inhalt unserer Wahl mit der Programmiersprache CSS programmieren. Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball und Tennis
+In unserem Projekt müssen wir eine Webseite mit Thema/Inhalt unserer Wahl mit der Programmiersprache CSS programmieren. 
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+
+
+Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball und Tennis, welche Inhalte wie das Spielkonzept, die Spielregeln, Stadien zu den Sporten, und berühmte Spieler. Zum Stadion und dem Spieler sind jeweils Bilder erhältlich. Man kann auf der Seite auch die Sprache ändern. Mit diesem Projekt wollen wir eine Sicherheit in unseren CSS Kentnissen und unserer praktischen Erfahrung erlangen. 
+
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  | Muss  |  Funktional| Als User möchte ich eine Webs(e)ite zu den Sportarten Fussball anschauen können, Basketball, Tennis, deren Spielregeln, berühmte Spielhallen/Stadien zu dem Sport, ein paar erfolgreiche/bekannte Spieler, Damit ich etwas über den Sport informiert bin. |
-| 2 | Kann    |   Qualität   | Als User möchte ich eine visuelle und interaktive Hilfestellung zu den geschriebenen Informationen, damit mir beim lernen und begreifen zu Helfen und als interessantes unterhaltendes Feature.  |
+| 1  | Muss  |  Funktional| Als User möchte ich eine Webseite zu den Sportarten Fussball anschauen können, Basketball, Tennis, deren Spielregeln, berühmte Spielhallen/Stadien zu dem Sport, ein paar erfolgreiche/bekannte Spieler, Damit ich etwas über den Sport informiert bin. |
+(| 2 | Kann    |   Qualität   | Als User möchte ich eine visuelle und interaktive Hilfestellung zu den geschriebenen Informationen, damit mir beim lernen und begreifen zu Helfen, und auch als interessantes unterhaltsamendes Feature.  |)
+
+|3|Kann|Rand|Als User möchte ich, dass die Bilder zu den Sporten sich von selbst ändern, bzw. verschieden Bilder einblendet. |
+|3|Muss/Kann|Qualität|Als User möchte ich, dass wenn ich auf den Text, der den Sport nennt, die Spielregeln, berühmte Spielhallen/Stadien zum Sport, ein paar erfolgreiche/bekannte Spieler, nach lädt um anschauen und lesen. |
+|4|Kann| Rand|Als User möchte ich, dass wenn ich auf die Sportart drücke, zu erst ein Ball des Sportes dort runterfällt, wo dann der Inhalt eingeblendet wird.|
+|3|Kann|Qualität|Als User möchte ich, dass das Spielkonzept zuerst einfach erklährt wird und ich für eine erweiterte Erklährung ein Pfeilchen drücken kann, welches den Rest nach lädt.|
+|3|Kann|Rand|Als User möchte ich, dass eine Animation zum Spieler vom Spieler in Aktion angezeigt wird.|
+||Rand|Als User möchte ich ein Bild von dem jeweiligen Stadion auf/nachklappbar ist.|
+
 | 3 | Kann| Rand| Als User möchte ich die Seite, bzw. das Geschriebene, auf englisch übersetzen können, damit nicht deutsch sprechende Personen die Seite auch verstehen können. |
+(|4| Kann | Rand | Als User möchte ich, dass die Seite jeweils auch auf meinem Smartphone angenehm anzuschauen und mit zuinteragieren, ist.) 
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -48,8 +59,8 @@ In unserem Projekt müssen wir eine Webseite mit Thema/Inhalt unserer Wahl mit d
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  11.5  |  Dakaj&Broder | Gerüst der Seite mit html erstellen | 45 min   |
+| 1.B  | 18.5 | Broder   |  Bild das von selber wechselt   |   50 min    |
 
 Total: 
 
