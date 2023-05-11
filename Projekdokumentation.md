@@ -56,7 +56,7 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  11.5  |  Dakaj&Broder | Gerüst der Seite mit html erstellen | 45 min   |
-| 3.A  | 18.5 | Broder   |  Bild das von selber wechselt   |   50 min    |
+| 3.A  | 18.5 | Broder   |  Bild, dass von selber wechselt   |   50 min    |
 
 Total: 
 
