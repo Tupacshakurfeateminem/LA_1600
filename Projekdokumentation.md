@@ -56,14 +56,15 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  11.5  |  Dakaj&Broder | Gerüst der Seite mit html erstellen | 45 min   |
-| 3.A  | 25.5 | Broder   |  Bild, dass von selber wechselt   |   50 min    | | | | |
-|2.A | 25.5| Ava| Sportanklicken, auf einzel seite landen| |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+|1.B| 11.5 |Dakaj |erste Grafik/visueller Aufbau der Seite erstellen| 45 min | 
+|2.A | 25.5| Ava| Schrift mit Sportanklicken, auf einzel seite landen| 50 min |
+| 3.A  | 25.5 | Broder   |  Bild, dass von selber wechselt   |   60 min    |
+|4.A | 25.5|Dakaj | Ball welcher fällt| 50 min |
+| 5.A|1.6| Ava|Erweiterung des texts | 20 min|
+|6.A |1.6 |Dakaj&Broder |"nachklappbares" bild| 30 min|
+|7.A |1.6 | Broder| Spieler-Animation| 40 min |
+|8.A |7.6|Übersetzung auf Englisch| Dakaj | 45 min |
+|9.A|7.6 |Ava |Smartphone freundlich| 45 min |
 
 Total: 
 
@@ -79,7 +80,11 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  |   11.5    |  Dakaj&Broder         |   45 min            |    55 min               |
+| 1.B |  25.5     |   Dakaj        |    45 min           |     55 min              |
+| 2.A  | 25.5      |  Ava         |    50 min           |     60 min              |
+| 3.A  |    25.5   |  Broder        |   60 min            |     60 min              |
+| 4.A | 25.5      |  Dakaj        |    50 min           |       50 min            |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
