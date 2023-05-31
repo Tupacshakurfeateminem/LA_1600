@@ -63,7 +63,7 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 | 5.A|1.6| Ava|Erweiterung des texts | 20 min|
 |6.A |1.6 |Dakaj&Broder |"nachklappbares" bild| 30 min|
 |7.A |1.6 | Broder| Spieler-Animation| 40 min |
-|8.A |7.6|Übersetzung auf Englisch| Dakaj | 45 min |
+|8.A |7.6| Dakaj|Übersetzung auf Englisch | 45 min |
 |9.A|7.6 |Ava |Smartphone freundlich| 45 min |
 
 Total: 
