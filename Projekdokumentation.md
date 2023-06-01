@@ -5,7 +5,7 @@ Cranberry: Broder, Hassani, Dakaj
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |  11.5     | 0.0.1   | Use-Case Diagramm & Mockup, User Stories, 1.1 Prjkdoku, Arbeitspakete gemacht |
-|       | ...     |                                                              |
+|      |    |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
