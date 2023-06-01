@@ -24,7 +24,7 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1  | Muss  |  Funktional| Als User möchte ich eine Webseite zu den Sportarten Fussball, Basketball, Tennis, deren Spielregeln, berühmte Spielhallen/Stadien zu dem Sport, ein paar erfolgreiche/bekannte Spieler, anschauen können. |
-|2|Muss/Kann|Rand| Als User möchte ich, dass wenn ich auf die Sportart gedrückt habe, nur noch diese auf meinem Bildschirm ist, und die anderen zwei ausgeblendet werden und von der Startseite aus erreichbar sind.|
+|2|Muss/Kann|Rand| Als User möchte ich, dass wenn ich auf das Bild der Sportart gedrückt habe, nur noch diese auf meinem Bildschirm ist, und die anderen zwei ausgeblendet werden und von der Startseite aus erreichbar sind.|
 |3|Kann|Rand|Als User möchte ich, dass die Bilder zu den Sporten sich von selbst ändern, bzw. verschieden Bilder einblendet. |
 |4|Kann| Rand|Als User möchte ich, dass wenn ich auf die Sportart drücke, zuerst ein Ball des Sportes dort runterfällt, wo dann der Inhalt, also Infos zu den die Spielregeln, berühmten Spielhallen/Stadien zum Sport, ein paar erfolgreiche/bekannte Spieler, eingeblendet wird.|
 |5|Kann|Qualität|Als User möchte ich, dass das Spielkonzept zuerst einfach erklärt wird und ich für eine erweiterte Erklärung ein Pfeilchen drücken kann, welches den Rest nachlädt.|
@@ -38,7 +38,7 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 2.A/4.5  |   Seite geladen           |  Auf die Schrift zum Sport drücken   |   Ball des Sports fällt und Seite lädt                |
+| 2.A/4.5  |   Seite geladen           |  Auf das Bild zum Sport drücken   |   Ball des Sports fällt und Seite lädt                |
 | 3.A |  Geladene Seite zum gewählten Sport   |  Nichts        |    Bilder bewegen sich kontinoierlich         |
 | 5.A| Seite zum Sport geladen |Erweiterung zum Text über Spielkonzept drücken |Ganzer Text wird angezeigt|
 |6.A| geladene Seite mit änderndem Bild und aufklappbarem Text|Bild zum Stadion aufklappen | Bild wird ersichtlich |
@@ -59,7 +59,7 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  11.5  |  Dakaj&Broder | Gerüst der Seite mit HTML erstellen | 45 min   |
 |1.B| 11.5 |Dakaj |erste Grafik/visueller Aufbau der Seite erstellen| 45 min | 
-|2.A | 25.5| Ava| Schrift mit Sportanklicken, auf einzelne Seite landen| 50 min |
+|2.A | 25.5| Ava| Bild zum Sport anklicken, auf einzelne Seite landen| 50 min |
 | 3.A  | 25.5 | Broder   |  Bild, dass von selbst wechselt   |   60 min    |
 |4.A | 25.5|Dakaj | Ball welcher fällt| 50 min |
 | 5.A|1.6| Ava|Erweiterung des Textes | 20 min|
