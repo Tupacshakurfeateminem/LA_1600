@@ -1,8 +1,54 @@
-# LA_1600
-.sportarten{
-    font-family: Arial;
-    font-weight: bold;
-    font-size: 50px;
-    margin-top: 50px;
-    margin-left: 450px;
+.sportarten {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 50px;
+  margin-top: 50px;
+  margin-left: 35%;
+}
+
+.fussball-logo {
+  width: 275px;
+  cursor: pointer;
+  margin-left: 10%;
+  transition: transform 0.5s ease;
+}
+
+.fussball-logo:hover {
+  font-weight: 50px;
+  border-width: 10px;
+  transform: scale(1.1);
+}
+
+.basketball-logo {
+  width: 275px;
+  cursor: pointer;
+  margin-left: 10%;
+  transition: transform 0.5s ease;
+}
+
+.basketball-logo:hover {
+  font-weight: 50px;
+  border-width: 10px;
+  transform: scale(1.1);
+}
+
+.tennis-logo {
+  width: 275px;
+  cursor: pointer;
+  margin-left: 10%;
+  transition: transform 0.5s ease;
+}
+
+.tennis-logo:hover {
+  font-weight: 50px;
+  border-width: 10px;
+  transform: scale(1.1);
+}
+
+#soccer-header:target ~ #soccer-text {
+  display: block;
+}
+
+#soccer-text {
+  display: none;
 }
