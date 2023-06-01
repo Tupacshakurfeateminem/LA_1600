@@ -38,9 +38,12 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |   Seite geladen           |  auf die Schrift drücken       |   geladene Seite zum entsprechenden Sport                |
-| ...  |              |         |                   |
-
+| 2.A/4.5  |   Seite geladen           |  Auf die Schrift zum Sport drücken   |   Ball des sportes fällt und Seite lädt                |
+| 3.A |  Geladene Seite zum gewählten Sport   |  Nichts        |    Bilder bewegen sich kontinuerlich         |
+| 5.A| Seite zum Sport geladen |Erweiterung zum Text über Spielkonzept drücken |Ganzer Text wird angezeigt|
+|6.A| geladene Seite mit änderndem Bild und aufklappbarem Text|Bild zum Stadion aufklappen | Bild wird ersichtlich |
+|7.A|Geladene Seite vom Sport, stille Animation |Hover über Animation |Animation vom bekanntesten Sieler in Aktion geht los|
+|8.A |Geladenen Seite | Auf Sprachenwechsel oben Links drücken| Sämtlicher Text wechselt die Sprache von Deutsch zu Englisch |
 
 
 ### 1.4 Diagramme
