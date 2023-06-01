@@ -48,7 +48,6 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 ![image](https://github.com/Tupacshakurfeateminem/LA_1600/assets/111044137/1884d71e-55f7-470c-a6c7-73212dfdaae0)
 ![WhatsApp Bild 2023-05-11 um 10 08 09](https://github.com/Tupacshakurfeateminem/LA_1600/assets/89085609/b1a452e2-9391-48f9-8dcc-fbc77e4b4f77)
 
@@ -73,7 +72,6 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 
 ## 4 Realisieren
@@ -87,7 +85,6 @@ Total:
 | 4.A | 1.6     |  Dakaj        |    50 min           |                 |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
