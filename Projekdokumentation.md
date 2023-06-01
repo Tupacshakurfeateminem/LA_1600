@@ -33,16 +33,15 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 |8 | Kann| Rand| Als User möchte ich die Seite, bzw. das Geschriebene, auf englisch übersetzen können, damit nicht deutsch sprechende Personen die Seite auch verstehen können. |
 |9| Kann | Rand | Als User möchte ich, dass die Seite jeweils auch auf meinem Smartphone angenehm anzuschauen und mit zuinteragieren, ist.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
+| 1.1  |   Seite geladen           |  auf die Schrift drücken       |   geladene Seite zum entsprechenden Sport                |
 | ...  |              |         |                   |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 
@@ -67,24 +66,22 @@ Unsere Themenwahl ist eine Informative Seite zu den Sporten Fussball, Basketball
 |9.A|7.6 |Ava |Smartphone freundlich| 45 min |
 
 Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+10
 
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   11.5    |  Dakaj&Broder         |   45 min            |    55 min               |
-| 1.B |  25.5     |   Dakaj        |    45 min           |     55 min              |
-| 2.A  | 25.5      |  Ava         |    50 min           |     60 min              |
-| 3.A  |    25.5   |  Broder        |   60 min            |     60 min              |
-| 4.A | 25.5      |  Dakaj        |    50 min           |       50 min            |
+| 1.B |  11.5     |   Dakaj        |    45 min           |     55 min              |
+| 2.A  |1.6     |  Ava         |    50 min           |                |
+| 3.A  |    1.6   |  Broder        |   60 min            |                |
+| 4.A | 1.6     |  Dakaj        |    50 min           |                 |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
