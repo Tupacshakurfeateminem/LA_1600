@@ -1,15 +1,43 @@
+* {
+  background-color: rgb(168, 168, 168);
+}
 .sportarten {
+  text-align: center;
+  display: inline-block;
+  border: 1.35px solid black;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: black;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
   font-family: Arial;
   font-weight: bold;
   font-size: 50px;
   margin-top: 50px;
-  margin-left: 35%;
+  margin-left: 36%;
+}
+
+.einleitung {
+  font-size: 150%;
+  text-align: center;
+  display: inline-block;
+  border: 1.35px solid black;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: black;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  font-family: Arial;
 }
 
 .fussball-logo {
   width: 275px;
   cursor: pointer;
-  margin-left: 10%;
+  margin-left: 13.5%;
   transition: transform 0.5s ease;
 }
 
@@ -17,6 +45,56 @@
   font-weight: 50px;
   border-width: 10px;
   transform: scale(1.1);
+}
+
+.fussballContainer {
+  display: inline;
+}
+
+.fussballContainer .fussball-logo {
+  cursor: pointer;
+}
+
+.fussballContainer .hidden-text {
+  cursor: pointer;
+  display: none;
+}
+
+.fussballContainer .fussball-logo:focus ~ .hidden-text {
+  display: block;
+}
+
+.fussballContainer .hidden-text:focus {
+  display: none;
+}
+
+.fussballContainer .hidden-text:focus ~ .fussball-logo {
+  opacity: 1;
+}
+
+.basketballContainer {
+  display: inline;
+}
+
+.basketballContainer .basketball-logo {
+  cursor: pointer;
+}
+
+.basketballContainer .hidden-text2 {
+  cursor: pointer;
+  display: none;
+}
+
+.basketballContainer .basketball-logo:focus ~ .hidden-text2 {
+  display: block;
+}
+
+.basketballContainer .hidden-text2:focus {
+  display: none;
+}
+
+.basketballContainer .hidden-text2:focus ~ .basketball-logo {
+  opacity: 1;
 }
 
 .basketball-logo {
@@ -32,6 +110,31 @@
   transform: scale(1.1);
 }
 
+.tennisContainer {
+  display: inline;
+}
+
+.tennisContainer .tennis-logo {
+  cursor: pointer;
+}
+
+.tennisContainer .hidden-text3 {
+  cursor: pointer;
+  display: none;
+}
+
+.tennisContainer .tennis-logo:focus ~ .hidden-text3 {
+  display: block;
+}
+
+.tennisContainer .hidden-text3:focus {
+  display: none;
+}
+
+.tennisContainer .hidden-text3:focus ~ .tennis-logo {
+  opacity: 1;
+}
+
 .tennis-logo {
   width: 275px;
   cursor: pointer;
@@ -43,12 +146,4 @@
   font-weight: 50px;
   border-width: 10px;
   transform: scale(1.1);
-}
-
-#soccer-header:target ~ #soccer-text {
-  display: block;
-}
-
-#soccer-text {
-  display: none;
 }
