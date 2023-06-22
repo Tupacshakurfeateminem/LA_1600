@@ -83,7 +83,9 @@ Total:
 | 2.A  |1.6     |  Ava         |    50 min           |                |
 | 3.A  |    1.6   |  Broder        |   60 min            |                |
 | 4.A | 1.6     |  Dakaj        |    50 min           |                 |
-| ...  |       |           |               |                   |
+| 5.A |    1.8   |   Ava        |   20 min            |    30 min               |
+|6.A|15.6|Dakaj&Broder|30 min |15 min|
+
 
 
 ## 5 Kontrollieren
@@ -93,7 +95,7 @@ Total:
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 
 ## 6 Auswerten
 
