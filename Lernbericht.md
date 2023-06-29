@@ -1,4 +1,3 @@
-Lern-Bericht
 
 
 
@@ -25,8 +24,13 @@ Wir haben gelernt wie ein Logo beim daraufklicken einen Text ausgibt.​
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![image](https://github.com/Tupacshakurfeateminem/LA_1600/assets/111044137/e8160a6c-4562-423d-af99-c55929ddd6ac)
 
 ## Verifikation
+
+https://github.com/Tupacshakurfeateminem/LA_1600/assets/111044137/b9c5783a-3c5a-4031-b384-04f3abf94394
+
+
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
