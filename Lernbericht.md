@@ -1,11 +1,5 @@
 
 
-
-
-
-Wir haben gelernt wie ein Logo beim daraufklicken einen Text ausgibt.​
-
-
 ## Lern-Bericht
 Cranberry: Leon Dakaj, Ava Hassani, John Broder
 
