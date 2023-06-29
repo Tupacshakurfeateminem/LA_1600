@@ -32,12 +32,12 @@ Der Text g<nz oben erklärt den allgemein Vorgang wie wir vorgegangen sind in de
 
 
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
++In diesem Projekt waren wir uns sehr schnell einig, was wir für eine Webseite machen und wie diese ungefähr aussehen könnte.
 
-👎 und etwas, was nicht gut lief.
+-In diesem Projekt waren wir leider sehr unorganisiert manchmal wurden gewisse Aufgaben teilweise erledigt oder gar nicht erledigt.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.**
+**VBV**: Nächstes mal müssen wir unsere Aufgaben frühzeitig und gut lösen.
