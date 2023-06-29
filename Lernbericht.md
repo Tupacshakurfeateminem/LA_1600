@@ -1,9 +1,39 @@
 Lern-Bericht
 
-Cranberry: Leon Dakaj, Ava Hassani, John Broder
 
-In unserem Projekt haben wir eine Webseite programmiert, auf der Text ausgegeben wird wenn man auf ein Logo klickt.
+
+
 
 Wir haben gelernt wie ein Logo beim daraufklicken einen Text ausgibt.​
 
 Wir hatten drei Logos und wenn man über eins der drei LOgos hovert sollte es grösser werden anschliessend kann man auf das gewünschte Logo klicken und man bekommt einen Text ausgegeben dieser kann wieder eingeklappt werden wenn man auf den Text klickt 
+## Lern-Bericht
+Cranberry: Leon Dakaj, Ava Hassani, John Broder
+
+## Einleitung
+
+In unserem Projekt haben wir eine Webseite programmiert, auf der Text ausgegeben wird wenn man auf ein Logo klickt.
+## Was habe ich gelernt?
+
+Wir haben gelernt wie ein Logo beim daraufklicken einen Text ausgibt.​
+
+## Beschreibung
+
+✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+
+* Eine textliche Beschreibung
+* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
+* Ein gut dokumentierter Code-Fetzen
+* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+## Verifikation
+
+✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+
+# Reflexion zum Arbeitsprozess
+
+👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+
+👎 und etwas, was nicht gut lief.
+
+**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.**
