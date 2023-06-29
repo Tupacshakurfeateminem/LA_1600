@@ -28,6 +28,8 @@ IN diesem Video kann man erkennen wie unser programm funktioniert. Beim hovern Ã
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 ![image](https://github.com/Tupacshakurfeateminem/LA_1600/assets/111044137/e8160a6c-4562-423d-af99-c55929ddd6ac)
+![image](https://github.com/Tupacshakurfeateminem/LA_1600/assets/111044137/e0235883-ace2-4739-af9c-4760046181a7)
+![image](https://github.com/Tupacshakurfeateminem/LA_1600/assets/111044137/56ac6bd2-0cce-49ab-8fd2-4e9c55d836e9)
 
 ## Verifikation
 
