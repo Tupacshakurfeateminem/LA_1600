@@ -19,8 +19,9 @@ Wir haben gelernt wie ein Logo beim daraufklicken einen Text ausgibt.​
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-Wir hatten drei Logos und wenn man über eins der drei LOgos hovert sollte es grösser werden anschliessend kann man auf das gewünschte Logo klicken und man bekommt einen Text ausgegeben dieser kann wieder eingeklappt werden wenn man auf den Text klickt.Dies haben wir in css und HTML programmiert wirs mussten viel gedult haben da uns viele kleine Vehler passiert sind. Am Ende haben wir es dann doch noch gesc 
+Wir hatten drei Logos und wenn man über eins der drei LOgos hovert sollte es grösser werden anschliessend kann man auf das gewünschte Logo klicken und man bekommt einen Text ausgegeben dieser kann wieder eingeklappt werden wenn man auf den Text klickt.Dies haben wir in css und HTML programmiert wirs mussten viel gedult haben da uns viele kleine Vehler passiert sind. Am Ende haben wir es dann doch noch geschaft. 
 ![ezgif com-video-to-gif](https://github.com/Tupacshakurfeateminem/LA_1600/assets/111044137/7f4eca12-a619-4fff-acca-64ead8226738)
+IN diesem Video kann man erkennen wie unser programm funktioniert. Beim hovern über den Fussball wird er grösser und wenn man anschliessend darauf klickt gibt er Text aus diesen kann man allerdings wieder einklappen wenn man auf denn ausgegegewünschten Text klickt.
 
 
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
